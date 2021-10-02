@@ -2,7 +2,7 @@
 #include <stdlib.h>
 
 //Função principal
-int main (){
+void main (){
     printf("Oi mundo");
-    return 0;
+    //return 0;
 }
